@@ -1,5 +1,6 @@
 class ProdutosController < ApplicationController
   def index
-    render plain: "estou passando pelo controller no controller"
+  #render plain: "estou passando pelo controller no controller"
+  @produtos = Produto.all
   end
 end

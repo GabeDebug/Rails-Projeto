@@ -1,10 +1,8 @@
 Rails.application.routes.draw do
   resources :products
   get "produtos/index"
-
-  Rails.application.route.draw do
-    resources: produtos, controller: 'products'
-  end
+  resources :produtos, controller: 'products'
+  
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
 

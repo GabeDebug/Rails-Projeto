@@ -1,0 +1,29 @@
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+/usr/bin/ruby extconf.rb
+checking for pkg-config for yaml-0.1... [" ", "", "-lyaml"]
+creating Makefile
+
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20260508-155722-j7fq5u sitelibdir\=./.gem.20260508-155722-j7fq5u clean
+cd libyaml && make clean
+/bin/sh: linha 1: cd: libyaml: Arquivo ou diretório inexistente
+make: [Makefile:287: clean-so] Error 1(ignorado)
+
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20260508-155722-j7fq5u sitelibdir\=./.gem.20260508-155722-j7fq5u
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.so
+
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20260508-155722-j7fq5u sitelibdir\=./.gem.20260508-155722-j7fq5u install
+/usr/bin/install -c -m 0755 psych.so ./.gem.20260508-155722-j7fq5u
+
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20260508-155722-j7fq5u sitelibdir\=./.gem.20260508-155722-j7fq5u clean
+cd libyaml && make clean
+/bin/sh: linha 1: cd: libyaml: Arquivo ou diretório inexistente
+make: [Makefile:287: clean-so] Error 1(ignorado)

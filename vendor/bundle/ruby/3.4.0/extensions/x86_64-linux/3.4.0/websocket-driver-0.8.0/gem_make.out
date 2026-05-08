@@ -1,0 +1,18 @@
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260508-155722-vpdbvm sitelibdir\=./.gem.20260508-155722-vpdbvm clean
+
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260508-155722-vpdbvm sitelibdir\=./.gem.20260508-155722-vpdbvm
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260508-155722-vpdbvm sitelibdir\=./.gem.20260508-155722-vpdbvm install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20260508-155722-vpdbvm
+
+current directory: /home/gabrieldebug/Documentos/Rails Projeto/Projeto-Rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260508-155722-vpdbvm sitelibdir\=./.gem.20260508-155722-vpdbvm clean

@@ -421,7 +421,7 @@ DEPENDENCIES
   jbuilder
   kamal
   mysql2
-  paperclip (~> 6.0.0)
+  paperclip
   propshaft
   puma (>= 5.0)
   rails (~> 8.1.3)

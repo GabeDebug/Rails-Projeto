@@ -20,7 +20,7 @@ gem "jbuilder"
 # Gemfile
 gem "twitter-bootstrap-rails"
 
-gem "paperclip", "~> 6.0.0"
+gem "paperclip"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
